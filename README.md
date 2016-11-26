@@ -3,4 +3,5 @@ This project about simpe use of RC4 Encryption using java , this project can be 
 
 Contact Me Via moch.ilhamramadhani@gmail.com
 
-# if it help you and mind to buy me tea ,  Paypal : ilhameilista@yahoo.com
+# if it help you and mind to buy me tea ,  
+# Paypal : ilhameilista@yahoo.com
