@@ -1,5 +1,5 @@
 # Simple-Encryption-CR4-Java-
-This project abaout simpe use of RC4 Encryption using java , this project can be compiled by netbeans
+This project about simpe use of RC4 Encryption using java , this project can be compiled by netbeans
 
 Contact Me Via moch.ilhamramadhani@gmail.com
 
